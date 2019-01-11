@@ -1,2 +1,2 @@
 # Personal Website.
-#### https://vinaysomawat.github.io/
+#### https://paryushjain.github.io/
